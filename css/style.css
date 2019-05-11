@@ -67,6 +67,9 @@
     #main-content, #sidebar {
     margin-bottom:40px;
     padding:20px;
+    float:left;
+    background:green;
+    font-size:32px;
     }
   
     /* The wrapper's width will be 600px */
